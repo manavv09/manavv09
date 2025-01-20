@@ -1,4 +1,4 @@
-![logo](https://github.com/manavv09/manavv09/blob/main/banner.png.jpeg)
+![logo](https://github.com/manavv09/manavv09/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Manav Bharti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
