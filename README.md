@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/manavvbharti" target="blank"><img src="https://img.shields.io/twitter/follow/manavvbharti?logo=twitter&style=for-the-badge" alt="manavvbharti" /></a> </p>
 
-- 🌱 I’m currently learning **express**
+- 🌱 I’m currently learning **reactJs**
 
 - 💬 Ask me about **JavaScript**
 
