@@ -1,5 +1,5 @@
 ![logo](https://github.com/manavv09/manavv09/blob/main/banner.jpg)
-
+ 
 <h1 align="center">Hi 👋, I'm Manav Bharti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BhbDd4OGNjNjRiZXM3bGxjNHNnaHExeW9yY3RqOHMwMGUyMjBscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif>
