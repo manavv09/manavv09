@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BhbDd4OGNjNjRiZXM3bGxjNHNnaHExeW9yY3RqOHMwMGUyMjBscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavv09&label=Profile%20views&color=0e75b6&style=flat" alt="manavv09" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavv09&label=Profile%20views&color=0e75b6&style=flat" alt="manavv09" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/manavvbharti" target="blank"><img src="https://img.shields.io/twitter/follow/manavvbharti?logo=twitter&style=for-the-badge" alt="manavvbharti" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/manavvbharti" target="blank"><img src="https://img.shields.io/twitter/follow/manavvbharti?logo=twitter&style=for-the-badge" alt="manavvbharti" /></a> </p> -->
 
 - 🌱 I’m currently learning **reactJs**
 
