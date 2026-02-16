@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **reactJs**
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **bhartimanav08@gmail.com**
 
 - ⚡ Fun fact **I know I am Funny😜**
